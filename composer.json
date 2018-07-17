@@ -1,4 +1,7 @@
 {
+  "name": "nyoroon/wordpress-apcu",
+  "description": "APCu object cache plugin for WordPress",
+  "type": "wordpress-plugin",
   "require-dev": {
     "phpunit/phpunit": "~5.7",
     "wp-coding-standards/wpcs": "^0.10"
